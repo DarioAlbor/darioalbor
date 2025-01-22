@@ -12,11 +12,11 @@ With over 4 years of experience as a Software Engineer, I'm on a mission to crea
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/albordario/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Dario Albor - LinkedIn" height="40" width="60" ></i>
-</a>
-<a href="https://darioalbor.dev.ar/" target="blank"><i align="center" class="devicon-react-original" alt="Dario Albor - Website" height="40" width="60" ></i>
-</a>
+<a href="https://www.linkedin.com/in/albordario/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Dario Albor - LinkedIn" height="30" width="40" /></a>
+<a href="https://darioalbor.netlify.app/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=react" alt="Dario Albor - Website" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=darioalbor&label=Profile%20views&color=0e75b6&style=flat" alt="Dario Albor - Profile Views" /> </p>
 
 ------
 <h3 align="left">Activity:</h3>
