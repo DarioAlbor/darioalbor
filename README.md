@@ -78,4 +78,4 @@ With over 4 years of experience as a Software Engineer, I'm on a mission to crea
 
 ------
 [DARIOALBOR](https://github.com/darioalbor)
-22/07/2025
+22/01/2025
