@@ -8,7 +8,6 @@ With over 4 years of experience as a Software Engineer, I'm on a mission to crea
   - 🔭 I’m currently working on a SaaS with Evolution API integration and many more features.
   - 🌱 I'm currently learning; Java, Spring Boot, Spring Security, Spring Cloud.
   - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, Node, Nest, React, Java, Spring Boot, Scrum, Google Cloud Platform, CI/CD, AWS, Azure, Docker, Kubernetes**
-  - ⚡ Fun fact: I started learning all of this at a young age just because I didn't like the user interface of a video game.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
