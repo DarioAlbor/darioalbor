@@ -1,6 +1,6 @@
 ### Hi, I'm Darío 👋
 
-AI-first full stack developer from Buenos Aires, with 5+ years building internal and customer-facing apps for capital markets, insurance, cloud services and pharma.
+AI-first full stack developer with 5+ years building internal and customer-facing apps for capital markets, insurance, cloud services and pharma.
 
 I like knowing how things work underneath: the database, the network, the server everything runs on. AI is part of how I write code every day; the architecture decisions are still mine.
 
