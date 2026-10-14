@@ -41,5 +41,5 @@ I like knowing how things work underneath: the database, the network, the server
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darioalbor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darioalbor&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/darioalbor.svg?label=Profile%20views&color=0e75b6" alt="Profile views" />
 </p>
