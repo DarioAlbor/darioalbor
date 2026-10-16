@@ -11,7 +11,6 @@ I like knowing how things work underneath: the database, the network, the server
 
 <p align="left">
   <a href="https://darioalbor.dev" target="_blank"><img src="https://img.shields.io/badge/darioalbor.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="darioalbor.dev" /></a>
-  <a href="https://www.linkedin.com/in/albordario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hi@darioalbor.dev"><img src="https://img.shields.io/badge/Email-262626?style=for-the-badge" alt="Email" /></a>
 </p>
 
